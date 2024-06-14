@@ -71,3 +71,7 @@ Cada submenu oferece as opções:
    ```bash
    git clone https://github.com/seu_usuario/locadora-automoveis.git
    cd locadora-automoveis
+1. Rode o projeto:
+   ```bash
+   python3 loja.py
+   
